@@ -104,21 +104,12 @@ Tres capas de convolución transpuesta que reconstruyen el espectrograma a parti
 
 ---
 
-## Estructura esperada del proyecto
+## Estructura del proyecto
 
 ```text
 .
 ├── Codigo_TP4_G24.ipynb        # Notebook principal con todo el flujo del proyecto
 ├── Informe_TP4_TD6.pdf         # Informe con análisis, gráficos y conclusiones
-├── data/                       # Dataset de audios por género (no incluido en el repo)
-│   ├── rock/
-│   ├── reggae/
-│   ├── pop/
-│   ├── jazz/
-│   ├── disco/
-│   ├── country/
-│   ├── hiphop/
-│   ├── metal/
-│   ├── classical/
-│   └── blues/
+├── cancion_nueva.wav           # Canción de prueba
+├── cancion_nueva_2.wav         # Canción de prueba
 └── README.md
